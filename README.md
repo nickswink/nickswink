@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nickswink
-- 👀 I’m interested in web apps, and pentesting.
+- 👀 I’m interested in web development, and pentesting.
 - 🌱 I’m currently learning pentesting, reactjs, and java.
 - 💞️ I’m looking to collaborate on webapp ideas...
 - 📫 How to reach me nickswink7@gmail.com
