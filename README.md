@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nickswink
-- 👀 I’m interested in web development, and pentesting.
-- 🌱 I’m currently learning pentesting, reactjs, and java.
-- 💞️ I’m looking to collaborate on webapp ideas...
+- 👀 I’m interested in pentesting, and security research.
+- 🌱 I’m currently learning powershell, incident response, and buffer overflows.
+- 💞️ I’m looking to collaborate on automation tools...
 - 📫 How to reach me nickswink7@gmail.com
 
 <!---
