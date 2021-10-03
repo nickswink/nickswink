@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nickswink
 - 👀 I’m interested in pentesting, and security research.
-- 🌱 I’m currently learning powershell, incident response, and buffer overflows.
+- 🌱 I’m currently learning powershell, windows priv esc.
 - 💞️ I’m looking to collaborate on automation tools...
 - 📫 How to reach me nickswink7@gmail.com
 
