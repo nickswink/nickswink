@@ -2,7 +2,7 @@
 - 👀 I’m interested in pentesting, and security research.
 - 🌱 I’m currently learning powershell, windows priv esc.
 - 💞️ I’m looking to collaborate on automation tools...
-- 📫 How to reach me nickswink7@gmail.com
+
 
 <!---
 nickswink/nickswink is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
