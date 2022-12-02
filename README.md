@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @nickswink
-- 👀 I’m interested in pentesting, and security research.
-- 🌱 I’m currently learning powershell, windows priv esc.
-- 💞️ I’m looking to collaborate on automation tools...
+- 👀 Pentester / Red Teamer
+- 🌱 Red Teaming tools and malware stuffz
 
 
 <!---
