@@ -2,9 +2,9 @@
 - 👀 Pentester / Red Teamer
 - 🌱 Red Teaming tools and malware stuffz
 
-### Medium Blog
+### Blog
 
-https://medium.com/@nickswink7
+https://c0rnbread.com/
 
 <!---
 nickswink/nickswink is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
